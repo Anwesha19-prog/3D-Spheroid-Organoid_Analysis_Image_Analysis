@@ -4,7 +4,7 @@ Analysis of spheroid images for varying intensity
 
 MATLAB Script -> SpheroidAnalysis_input.m
 
-Author: Dr. Anwesha Sarkar, Bhupesh Verma
+Author: Dr. Anwesha Sarkar
 
 Date: October 10, 2023
 
