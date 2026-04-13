@@ -129,7 +129,7 @@ Prepared for spheroid analysis as part of Dr. Sarkar’s PhD thesis at **Univers
 
 ## Suggested next improvements (optional)
 
-If you’d like, I can help you extend the README and/or the codebase to include:
+Possible extension to the the README and/or the codebase includes:
 
 - Batch processing of multiple images in a folder
 - Example images + expected output screenshot
