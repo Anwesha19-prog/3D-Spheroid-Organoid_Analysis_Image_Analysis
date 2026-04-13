@@ -104,6 +104,10 @@ One row (or a set of rows) containing:
 
 > The Excel values are computed for a region defined by the `offset_length` variable.
 
+<img width="413" alt="GitHub1" src="https://github.com/user-attachments/assets/2cb97264-92f1-4e40-b398-91d29d77fb02" />
+<img width="434" alt="GitHub2" src="https://github.com/user-attachments/assets/5eb0dd77-1511-4bac-8bfd-d6868b2a7b4c" />
+<img width="561" alt="GitHub3" src="https://github.com/user-attachments/assets/a897eb78-566c-4031-b3fc-86a8bcd07f89" />
+
 ---
 
 ## Assumptions and limitations
@@ -133,8 +137,4 @@ If you’d like, I can help you extend the README and/or the codebase to include
 - Clear calibration guidance (pixel size, μm-per-pixel)
 - MATLAB version/toolbox notes (if any are required)
 
-
-<img width="413" alt="GitHub1" src="https://github.com/user-attachments/assets/2cb97264-92f1-4e40-b398-91d29d77fb02" />
-<img width="434" alt="GitHub2" src="https://github.com/user-attachments/assets/5eb0dd77-1511-4bac-8bfd-d6868b2a7b4c" />
-<img width="561" alt="GitHub3" src="https://github.com/user-attachments/assets/a897eb78-566c-4031-b3fc-86a8bcd07f89" />
 
